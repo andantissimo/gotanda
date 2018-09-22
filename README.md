@@ -44,7 +44,3 @@ func main() {
 ### Release Build
 
 `go build -tags "release" main.go`
-
-## License
-
-WTFPL
